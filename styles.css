@@ -1,0 +1,178 @@
+﻿/* General Website Style rules */
+body {
+	font-family: "Helvetica", Sans-Serif;
+	background-image: url("images/fon2.jpeg");
+      background-attachment: fixed;
+}
+a {
+color: #ffffff;
+}
+/* Top header profile image */
+.profile-small {
+	height:250px;
+	border-radius: 100%;
+	border: 8px solid #000000;
+}
+/* Header Title */
+.header{
+	height: 340px;
+	padding-top: 30px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+	margin: 30px;
+	font-size: 20px;
+	color: #000000;
+}
+.header-page{
+	height: 340px;
+	padding-top: 30px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+	margin: 30px;
+	font-size: 20px;
+	color: #000000;
+}
+/* Section 3 */
+.section-heading {
+	text-align: center;
+	color: #000000;
+	margin-top: 80px;
+	margin-bottom: -25px;
+	font-size: 35px;
+}
+/* Sizing for Project Containers */
+.column-4 {
+	float: left;
+	width: 26%;
+	padding-top: 60px;
+	padding-left: 30px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	margin: 45px;
+	height: 210px;
+}
+.column-4 {
+    transition: 1s; 
+   }
+   .column-4:hover {
+    transform: scale(1.2); 
+   }
+/* Color and Images for Project Containers */
+.project-1 {
+ background: url("images/min1.png");
+ background-size: cover;
+ border-radius:10%;
+ border: 2px solid #000000;
+}
+.project-2 {
+ background: url("images/min2.png");
+ background-size: cover;
+ border-radius:10%;
+ border: 2px solid #000000;
+}
+.project-3 {
+ background: url("images/min3.png");
+ background-size: cover;
+ border-radius:10%;
+ border: 2px solid #000000;
+}
+.project-4 {
+ background: url("images/min4.png");
+ background-size: cover;
+ border-radius:10%;
+ border: 2px solid #000000;
+}
+.project-5 {
+ background: url("images/min5.png");
+ background-size: cover;
+ border-radius:10%;
+ border: 2px solid #000000;
+}
+.project-6 {
+ background: url("images/min6.png");
+ background-size: cover;
+ border-radius:10%;
+ border: 2px solid #000000;
+}
+.project-7 {
+ background: url("images/min7.png");
+ background-size: cover;
+ border-radius:10%;
+ border: 2px solid #000000;
+}
+.project-8 {
+ background: url("images/min8.png");
+ background-size: cover;
+ border-radius:10%;
+ border: 2px solid #000000;
+}
+.project-9 {
+ background: url("images/min9.png");
+ background-size: cover;
+ border-radius:10%;
+ border: 2px solid #000000;
+}
+.project-10 {
+ background: url("images/min10.png");
+ background-size: cover;
+ border-radius:10%;
+ border: 2px solid #000000;
+}
+.project-11 {
+ background: url("images/min11.png");
+ background-size: cover;
+ border-radius:10%;
+ border: 2px solid #000000;
+}
+.project-12 {
+ background: url("images/min12.png");
+ background-size: cover;
+ border-radius:10%;
+ border: 2px solid #000000;
+}
+.project-text {
+	text-align: center;
+	font-size: 50px;
+}
+/* Hover classes for individual project boxes */
+.project-1:hover {
+ background-color:#000000;
+}
+.project-2:hover {
+ background-color:#000000;
+}
+.project-3:hover {
+ background-color:#000000;
+}
+.project-4:hover {
+ background-color:#000000;
+}
+.project-5:hover {
+ background-color:#000000;
+}
+.project-6:hover {
+ background-color:#000000;
+}
+.project-7:hover {
+ background-color:#000000;
+}
+.project-8:hover {
+ background-color:#000000;
+}
+.project-9:hover {
+ background-color:#000000;
+}
+.project-10:hover {
+ background-color:#000000;
+}
+.project-11:hover {
+ background-color:#000000;
+}
+.project-12:hover {
+ background-color:#000000;
+}
+
